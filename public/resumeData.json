@@ -1,126 +1,138 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Keerthana Yogananthan",
+    "occupation": "Computer Engineering Student",
+    "description": "An Aspiring Full Stack React Developer",
+    "image": "Keerthana.jpg",
+    "bio": "My name is Keerthana, I'm a senior majoring in Computer Engineering. My focus of study is a blend of hardware and software.",
+    "contactmessage": "Get in touch with me to receive further details, get mentorship, hire me, or anything else.",
+    "email": "keerthanayogananthan@gmail.com",
+    "phone": "(626) 693-0975",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "University of Texas at Dallas",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75080"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.keerthanayogananthan.com",
+    "resumedownload": "http://keerthanayogananthan.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/keerthana.yogananthan",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/keertha/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/kyoga99/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/kyoga99",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Top Technical Skills:",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Texas at Dallas",
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "May 2021",
+        "description": "National Merit Scholar & Collegium V Scholar"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Comet Marketing",
+        "title": "Cofounder & President",
+        "years": "August 2017 - present",
+        "description": "Founded an organization to create and advise on marketing and social media content for other organizations and local businesses"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Cisco Systems, Inc.",
+        "title": "Software Engineering Intern",
+        "years": "May 2019 - August 2019",
+        "description": "Reduced memory usage for logging data from ITD by 30%"
+      },
+      {
+        "company": "Trusted World",
+        "title": "Web Developer & EPICS Project Lead",
+        "years": "Aug 2018 - January 2019",
+        "description": "Built end-to-end app with client portal, admin interface, and automated inventory tracking system all in one place"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Java",
+        "level": "98%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "C/C++",
+        "level": "92%"
       },
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Assembly Language",
+        "level": "85%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "CSS3",
         "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "DynamoDB",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Health CommonWealth",
+        "category": "Medical Billing App with Patient Portal to see hospital charges upfront (ReactJS, Python, Auth0)",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "CommonHealth",
+        "category": "WebApp for easy scanning of paper forms without manual entry (AWS, Lambda, DynamoDB, Python)",
         "image": "tiktok-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Live Chat Application",
+        "category": "Live Chat Application and File Transfer using TCP/IP and FTP (C++, Socket Programming)",
         "image": "facebook-clone.png",
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Word Descrambler",
+        "category": "Word Descrambler that will take any input of letters and return back all the words they could possibly represent (C++)",
         "image": "airbnb-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
   },
